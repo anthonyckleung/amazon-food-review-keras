@@ -1,9 +1,9 @@
-### Sentiment Classification with Neural Networks
+# Sentiment Classification with Neural Networks
 
 
 Task: Construct a sentiment classifier on Amazon Food reviews
 
-## Prerequisites:
+### Prerequisites:
 - Python 3 
 - Keras with TensorFlow backend
 - numpy, scipy, sklearn
